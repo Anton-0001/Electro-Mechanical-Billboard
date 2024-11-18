@@ -81,7 +81,6 @@ Printed & assembled:  <br/>
 <h2>Fish Mechanism Demonstration</h2>
 
 <br />
-First Version of the billboard:  <br/>
 https://youtube.com/shorts/rblCdXwCMUY?feature=shared
 </p>
 
