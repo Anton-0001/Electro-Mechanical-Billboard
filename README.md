@@ -53,7 +53,7 @@ Eyes & Scales:  <br/>
 <br />
 <br />
 
-<h2>Head Moving Mechanism</h2>
+<h2>Head Movement Mechanism</h2>
 
 <br />
 Head w/ cutout for pivot joint & Actuation Rod:  <br/>
